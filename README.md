@@ -9,6 +9,7 @@ brew install --cask gguidotz/tap/nod
 | Cask | App |
 |---|---|
 | `nod` | [Nod](https://github.com/GGuidotz/nod): approvazioni a mani libere e presenza per Cocaine, con AirPods e Apple Watch |
+| `typewithme` | [Type_w/Me](https://github.com/GGuidotz/typewithme): il seguito di ciò che scrivi, in grigio, in qualunque app, con modelli che girano sul Mac |
 
 Le app non sono notarizzate da Apple: il cask toglie la quarantena all'installazione, così macOS non chiede "Apri comunque".
 Aggiornare: `brew update && brew upgrade --cask nod`. Disinstallare: `brew uninstall --cask nod`.

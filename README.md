@@ -3,8 +3,11 @@
 Tap Homebrew per le app di GGuidotz.
 
 ```
+brew trust gguidotz/tap
 brew install --cask gguidotz/tap/nod
 ```
+
+La prima riga serve una volta sola: le versioni recenti di Homebrew caricano solo i tap segnati come fidati.
 
 | Cask | App |
 |---|---|

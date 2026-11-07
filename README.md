@@ -8,6 +8,7 @@ brew install --cask gguidotz/tap/nod
 
 | Cask | App |
 |---|---|
+| `knock` | [Knock](https://github.com/GGuidotz/knock): il tavolo accanto al Mac diventa un pannello di 8 interruttori, con il microfono o i sensori di movimento |
 | `nod` | [Nod](https://github.com/GGuidotz/nod): approvazioni a mani libere e presenza per Cocaine, con AirPods e Apple Watch |
 | `typewithme` | [Type_w/Me](https://github.com/GGuidotz/typewithme): il seguito di ciò che scrivi, in grigio, in qualunque app, con modelli che girano sul Mac |
 

@@ -17,6 +17,7 @@ La prima riga serve una volta sola: le versioni recenti di Homebrew caricano sol
 | `tivu` | [Tivu](https://github.com/GGuidotz/tivu): la TV LG collegata al Mac si comanda dalla barra dei menu, con volume, ingressi e telecomando via rete |
 | `typewithme` | [Type_w/Me](https://github.com/GGuidotz/typewithme): il seguito di ciò che scrivi, in grigio, in qualunque app, con modelli che girano sul Mac |
 | `whats-going-on` | [What's Going On](https://github.com/GGuidotz/whats-going-on): un monitor di sistema nella barra dei menu che dice in una frase cosa succede, con attrezzi per liberare spazio |
+| `eventi` | [Eventi](https://github.com/GGuidotz/eventi): gli eventi di un testo o di un documento (PDF, immagini, email) in un file .ics per Calendario, estratti sul Mac (macOS 26) |
 
 Nod e What's Going On si appoggiano a [Cocaine](https://github.com/Mattiakart/cocaine), che sta in un tap di terzi (`mattiakart/tap/cocaine`): i cask lo ricordano all'installazione.
 
